@@ -1,5 +1,5 @@
 alembic==1.0.7
-Sanic==18.12.0
+Sanic==20.12.7
 SQLAlchemy==1.2.8
 requests
 psycopg2
